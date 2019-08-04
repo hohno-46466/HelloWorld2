@@ -49,5 +49,6 @@ Step 5. Merge your Pull Request
 To learn more about the power of Pull Requests, we recommend reading the GitHub flow Guide. You might also visit GitHub Explore and get involved in an Open Source project.
 
 https://guides.github.com/introduction/flow/
+
 https://github.com/explore
 
